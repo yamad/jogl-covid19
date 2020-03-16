@@ -1,0 +1,4 @@
+jupyterlab
+geopy
+pandas~=1.0
+folium
