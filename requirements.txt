@@ -4,8 +4,6 @@
 #
 #    pip-compile
 #
---index-url https://repo.covisus.com:9443/repository/pypi-cl/simple
-
 attrs==19.3.0             # via jsonschema
 backcall==0.1.0           # via ipython
 bleach==3.1.1             # via nbconvert
